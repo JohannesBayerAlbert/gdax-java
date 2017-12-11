@@ -1,6 +1,7 @@
 apply plugin: 'java'
 apply plugin: 'application'
-apply plugin: 'spring-boot'
+apply plugin: 'org.springframework.boot'
+apply plugin: 'eclipse'
 
 group = 'irufus'
 description = 'Client for the GDAX API'
